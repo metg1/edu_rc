@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      dd
+      이거맞아?
     </div>
   );
 }
